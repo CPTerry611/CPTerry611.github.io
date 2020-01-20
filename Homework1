@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <h3><b>Colin Terry - CSCI 260 - Homework Assignment 1</b></h3>
+  <h5><b>A Pragmatic Programmer - Software Entropy</b></h5>
+  
+  <p>
+  The section from the reading that stood out to me the most was the section on Software Entropy.
+  This section of the chapter gave me some insight on how there is a lot more to programming and software then just typing commands.
+  The success of any project can be determined by the mindset and perception of those working on it, and this is made apparent with the broken window metaphor.
+  One small error in a project can cause more errors to stack, so it is best to work on errors as they appear.
+  The section also told the story of firefighters rushing into a fire to cover an expensive carpet before putting out the fire to ensure that they did not ruin the carpet.
+  Any piece of code that presents a mess will cause proceeding programmers to not work as hard because there is already an imperfect code.
+  </p>
+  <p>
+  This section stood out to me because it gave me some food for thought when it comes to working with a team on a project in the future.
+  I have to be responsible, pull my weight and not let any errors, no matter how small they may seem, make an impact on the project.
+  It made me aware that a programmer's mindset can make a big impact on a project.
+  If they are unwilling to fix broken windows or are willing to mess up the carpet when putting out a fire, metaphorically speaking, they can allow other careless errors to be made and make their project worse.
+  It should be important to be willing to work with the team in order to prevent a large amount of entropy or chaos within the project.
+  </p>
+</body>
+
+<html>
